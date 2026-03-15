@@ -185,7 +185,7 @@
                         className: "mt-8 flex flex-wrap items-center gap-4",
                         children: [
                           (0, C.jsx)("a", {
-                            href: "https://pancakeswap.finance/swap?outputCurrency=0x096d799efba5821e0dd911608bd3310712384444",
+                            href: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
                             className:
                               "inline-flex items-center justify-center px-5 py-3 font-bold uppercase tracking-wide border-2 border-black bg-black text-[var(--e-global-color-primary,#F0B90B)] hover:bg-transparent hover:text-black transition",
                             children: "Buy Now",
@@ -368,7 +368,7 @@
       ];
       function n(e) {
         let {
-          tokenCA: a = "0x096d799efba5821e0dd911608bd3310712384444",
+          tokenCA: a = "0xcomingsoon",
           steps: t = i,
           sideMedia: l,
         } = e;
@@ -523,7 +523,7 @@
           }, 
           {
             label: "DexScreener",
-            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0x096d799efba5821e0dd911608bd3310712384444",
+            href: "https://www.dexscreener.com/bsc/0xcomingsoon",
             Icon: (e) =>
               (0, C.jsxs)("svg", {
                 "aria-hidden": "true",
@@ -550,7 +550,7 @@
           },
           {
             label: "DEXTools",
-            href: "https://www.dextools.io/app/en/bsc/pair-explorer/0x096d799efba5821e0dd911608bd3310712384444",
+            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xcomingsoon",
             Icon: (e) =>
               (0, C.jsx)("svg", {
                 "aria-hidden": "true",
@@ -882,7 +882,7 @@
                   className: "mt-8 flex  justify-center gap-4",
                   children: [
                     (0, C.jsx)("a", {
-                      href: "https://pancakeswap.finance/swap?outputCurrency=0x096d799efba5821e0dd911608bd3310712384444",
+                      href: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
                       className:
                         "group relative inline-block skew-x-[-12deg] select-none",
                       children: (0, C.jsxs)("span", {
@@ -910,7 +910,7 @@
                       }),
                     }),
                     (0, C.jsx)("a", {
-                      href: "https://www.dextools.io/app/en/bnb/pair-explorer/0x096d799efba5821e0dd911608bd3310712384444",
+                      href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xcomingsoon",
                       className:
                         "group relative inline-block skew-x-[-12deg] select-none",
                       children: (0, C.jsxs)("span", {
