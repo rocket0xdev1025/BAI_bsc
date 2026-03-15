@@ -261,9 +261,9 @@
         { label: "Ticker", value: "$BAI" },
         { label: "Chain", value: "BNB Smart Chain (BEP-20)" },
         { label: "Total Supply", value: "1,000,000,000 $BAI" },
-        { label: "Liquidity", value: "Locked", hint: "LP is locked" },
-        { label: "Contract", value: "Renounced" },
-        { label: "Buy/Sell Tax", value: "0% / 0%" },
+        // { label: "Liquidity", value: "Locked", hint: "LP is locked" },
+        // { label: "Contract", value: "Renounced" },
+        // { label: "Buy/Sell Tax", value: "0% / 0%" },
       ];
       function l(e) {
         let { items: a = s, title: t = "Tokenomics" } = e;
@@ -910,7 +910,7 @@
                       }),
                     }),
                     (0, C.jsx)("a", {
-                      href: "https://www.dextools.io/app/en/bnb/pair-explorer/0x3e63408f27d71e753f46772e2ccd0e271fa24444",
+                      href: "https://www.dexscreener.com/bsc/0x3e63408f27d71e753f46772e2ccd0e271fa24444",
                       className:
                         "group relative inline-block skew-x-[-12deg] select-none",
                       children: (0, C.jsxs)("span", {
