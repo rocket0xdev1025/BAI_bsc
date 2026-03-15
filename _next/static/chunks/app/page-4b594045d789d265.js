@@ -497,7 +497,7 @@
       let r = [
           {
             label: "Telegram",
-            href: "https://t.me/BAI_bsc",
+            href: "https://t.me/BinanceAI_entry",
             Icon: (e) =>
               (0, C.jsx)("svg", {
                 viewBox: "0 0 448 512",
@@ -510,7 +510,7 @@
           },
           {
             label: "X (Twitter)",
-            href: "https://x.com/BAI_bsc",
+            href: "https://x.com/BinanceAI_x",
             Icon: (e) =>
               (0, C.jsx)("svg", {
                 viewBox: "0 0 512 512",
@@ -876,7 +876,7 @@
                   className:
                     "font-mono md:font-semibold mt-4 text-xs max-w-[90%] md:text-lg text-white/80 md:max-w-xl",
                   children:
-                    "It’s Time For Aster October The Month Aster Goes Parabolic",
+                    "Forged on BNB’s frontier, BAI rallies builders, degens, and diamond hands into one unstoppable crew.",
                 }),
                 (0, C.jsxs)("div", {
                   className: "mt-8 flex  justify-center gap-4",
