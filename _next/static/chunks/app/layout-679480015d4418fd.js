@@ -154,7 +154,7 @@
                       children: [
                         (0, a.jsx)("span", {
                           style: { color: "var(--e-global-color-primary)" },
-                          children: "BNBAI",
+                          children: "BAI",
                         }),
                         (0, a.jsx)("span", {
                           style: {
