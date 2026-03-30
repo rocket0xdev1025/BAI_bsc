@@ -185,7 +185,7 @@
                         className: "mt-8 flex flex-wrap items-center gap-4",
                         children: [
                           (0, C.jsx)("a", {
-                            href: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
+                            href: "https://pancakeswap.finance/swap?outputCurrency=0x2a85d5e0d263d0c131bda03778ace47afc534444",
                             className:
                               "inline-flex items-center justify-center px-5 py-3 font-bold uppercase tracking-wide border-2 border-black bg-black text-[var(--e-global-color-primary,#F0B90B)] hover:bg-transparent hover:text-black transition",
                             children: "Buy Now",
@@ -368,7 +368,7 @@
       ];
       function n(e) {
         let {
-          tokenCA: a = "0xcomingsoon",
+          tokenCA: a = "0x2a85d5e0d263d0c131bda03778ace47afc534444",
           steps: t = i,
           sideMedia: l,
         } = e;
@@ -523,7 +523,7 @@
           }, 
           {
             label: "DexScreener",
-            href: "https://www.dexscreener.com/bsc/0xcomingsoon",
+            href: "https://www.dexscreener.com/bsc/0x2a85d5e0d263d0c131bda03778ace47afc534444",
             Icon: (e) =>
               (0, C.jsxs)("svg", {
                 "aria-hidden": "true",
@@ -550,7 +550,7 @@
           },
           {
             label: "DEXTools",
-            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xcomingsoon",
+            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0x2a85d5e0d263d0c131bda03778ace47afc534444",
             Icon: (e) =>
               (0, C.jsx)("svg", {
                 "aria-hidden": "true",
@@ -882,7 +882,7 @@
                   className: "mt-8 flex  justify-center gap-4",
                   children: [
                     (0, C.jsx)("a", {
-                      href: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
+                      href: "https://pancakeswap.finance/swap?outputCurrency=0x2a85d5e0d263d0c131bda03778ace47afc534444",
                       className:
                         "group relative inline-block skew-x-[-12deg] select-none",
                       children: (0, C.jsxs)("span", {
@@ -910,7 +910,7 @@
                       }),
                     }),
                     (0, C.jsx)("a", {
-                      href: "https://www.dexscreener.com/bsc/0xcomingsoon",
+                      href: "https://www.dexscreener.com/bsc/0x2a85d5e0d263d0c131bda03778ace47afc534444",
                       className:
                         "group relative inline-block skew-x-[-12deg] select-none",
                       children: (0, C.jsxs)("span", {
