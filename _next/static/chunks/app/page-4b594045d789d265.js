@@ -105,7 +105,7 @@
             (0, C.jsx)("div", {
               className: " pt-6",
               children: (0, C.jsx)(i, {
-                text: "WELCOME TO BAI",
+                text: "WELCOME TO 币安女英雄",
                 gap: 40,
                 speed: 40,
               }),
@@ -161,13 +161,13 @@
                           (0, C.jsxs)("p", {
                             children: [
                               "Born from the chaos of the markets, ",
-                              (0, C.jsx)("b", { children: "BAI" }),
-                              " isn’t just a meme—he’s the signal in the noise. Forged on BNB’s frontier, BAI rallies builders, degens, and diamond hands into one unstoppable crew.",
+                              (0, C.jsx)("b", { children: "币安女英雄" }),
+                              " isn’t just a meme—he’s the signal in the noise. Forged on BNB’s frontier, 币安女英雄 rallies builders, degens, and diamond hands into one unstoppable crew.",
                             ],
                           }),
                           (0, C.jsxs)("p", {
                             children: [
-                              "When others chase hype, BAI ",
+                              "When others chase hype, 币安女英雄 ",
                               (0, C.jsx)("i", { children: "hunts" }),
                               " edge. His mission: flip the meta with fearless community energy, clean UX, and relentless execution. No empty promises—only momentum.",
                             ],
@@ -175,7 +175,7 @@
                           (0, C.jsxs)("p", {
                             children: [
                               "The story is still being written. Grab the helm, spread the word and let the chain know: ",
-                              (0, C.jsx)("b", { children: "$BAI" }),
+                              (0, C.jsx)("b", { children: "$币安女英雄" }),
                               " is taking the lead.",
                             ],
                           }),
@@ -185,7 +185,7 @@
                         className: "mt-8 flex flex-wrap items-center gap-4",
                         children: [
                           (0, C.jsx)("a", {
-                            href: "https://pancakeswap.finance/swap?outputCurrency=0x3e63408f27d71e753f46772e2ccd0e271fa24444",
+                            href: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
                             className:
                               "inline-flex items-center justify-center px-5 py-3 font-bold uppercase tracking-wide border-2 border-black bg-black text-[var(--e-global-color-primary,#F0B90B)] hover:bg-transparent hover:text-black transition",
                             children: "Buy Now",
@@ -258,9 +258,9 @@
       var C = t(5155);
       t(2115);
       let s = [
-        { label: "Ticker", value: "$BAI" },
+        { label: "Ticker", value: "$币安女英雄" },
         { label: "Chain", value: "BNB Smart Chain (BEP-20)" },
-        { label: "Total Supply", value: "1,000,000,000 $BAI" },
+        { label: "Total Supply", value: "1,000,000,000 $币安女英雄" },
         // { label: "Liquidity", value: "Locked", hint: "LP is locked" },
         // { label: "Contract", value: "Renounced" },
         // { label: "Buy/Sell Tax", value: "0% / 0%" },
@@ -357,18 +357,18 @@
           id: 4,
           badgeSrc: "/steps/step4.png",
           alt: "Step 4",
-          text: "Select $BAI (BAI). Paste the contract if needed, choose your BNB amount, set slippage if required, and swap.",
+          text: "Select $币安女英雄 (币安女英雄). Paste the contract if needed, choose your BNB amount, set slippage if required, and swap.",
         },
         {
           id: 5,
           badgeSrc: "/steps/step5.png",
           alt: "Step 5",
-          text: "After the transaction confirms, add the token to your wallet and verify your $BAI balance.",
+          text: "After the transaction confirms, add the token to your wallet and verify your $币安女英雄 balance.",
         },
       ];
       function n(e) {
         let {
-          tokenCA: a = "0x3e63408f27d71e753f46772e2ccd0e271fa24444",
+          tokenCA: a = "0xcomingsoon",
           steps: t = i,
           sideMedia: l,
         } = e;
@@ -409,7 +409,7 @@
                       children: [
                         (0, C.jsx)(s.default, {
                           src: "/how-to.jpg",
-                          alt: "BAI — How to Buy",
+                          alt: "币安女英雄 — How to Buy",
                           fill: !0,
                           className: "object-contain",
                           priority: !0,
@@ -497,7 +497,7 @@
       let r = [
           {
             label: "Telegram",
-            href: "https://t.me/BinanceAI_entry",
+            href: "https://t.me",
             Icon: (e) =>
               (0, C.jsx)("svg", {
                 viewBox: "0 0 448 512",
@@ -510,7 +510,7 @@
           },
           {
             label: "X (Twitter)",
-            href: "https://x.com/BinanceAI_x",
+            href: "https://x.com/i/communities/2038706975790469377",
             Icon: (e) =>
               (0, C.jsx)("svg", {
                 viewBox: "0 0 512 512",
@@ -523,7 +523,7 @@
           }, 
           {
             label: "DexScreener",
-            href: "https://www.dexscreener.com/bsc/0x3e63408f27d71e753f46772e2ccd0e271fa24444",
+            href: "https://www.dexscreener.com/bsc/0xcomingsoon",
             Icon: (e) =>
               (0, C.jsxs)("svg", {
                 "aria-hidden": "true",
@@ -550,7 +550,7 @@
           },
           {
             label: "DEXTools",
-            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0x3e63408f27d71e753f46772e2ccd0e271fa24444",
+            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xcomingsoon",
             Icon: (e) =>
               (0, C.jsx)("svg", {
                 "aria-hidden": "true",
@@ -753,7 +753,7 @@
                     (0, C.jsx)("h1", {
                       className:
                         "text-yellow-400 text-4xl md:text-6xl  font-sans mt-2",
-                      children: "BAI",
+                      children: "币安女英雄",
                     }),
                   ],
                 }),
@@ -858,7 +858,7 @@
                   children: [
                     (0, C.jsx)("span", {
                       style: { color: "var(--e-global-color-primary)" },
-                      children: "BAI",
+                      children: "币安女英雄",
                     }),
                     (0, C.jsx)("span", {
                       style: {
@@ -876,13 +876,13 @@
                   className:
                     "font-mono md:font-semibold mt-4 text-xs max-w-[90%] md:text-lg text-white/80 md:max-w-xl",
                   children:
-                    "Forged on BNB’s frontier, BAI rallies builders, degens, and diamond hands into one unstoppable crew.",
+                    "Forged on BNB’s frontier, 币安女英雄 rallies builders, degens, and diamond hands into one unstoppable crew.",
                 }),
                 (0, C.jsxs)("div", {
                   className: "mt-8 flex  justify-center gap-4",
                   children: [
                     (0, C.jsx)("a", {
-                      href: "https://pancakeswap.finance/swap?outputCurrency=0x3e63408f27d71e753f46772e2ccd0e271fa24444",
+                      href: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
                       className:
                         "group relative inline-block skew-x-[-12deg] select-none",
                       children: (0, C.jsxs)("span", {
@@ -910,7 +910,7 @@
                       }),
                     }),
                     (0, C.jsx)("a", {
-                      href: "https://www.dexscreener.com/bsc/0x3e63408f27d71e753f46772e2ccd0e271fa24444",
+                      href: "https://www.dexscreener.com/bsc/0xcomingsoon",
                       className:
                         "group relative inline-block skew-x-[-12deg] select-none",
                       children: (0, C.jsxs)("span", {

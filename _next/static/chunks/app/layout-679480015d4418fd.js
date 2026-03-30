@@ -154,7 +154,7 @@
                       children: [
                         (0, a.jsx)("span", {
                           style: { color: "var(--e-global-color-primary)" },
-                          children: "BAI",
+                          children: "币安女英雄",
                         }),
                         (0, a.jsx)("span", {
                           style: {
