@@ -154,7 +154,7 @@
                       children: [
                         (0, a.jsx)("span", {
                           style: { color: "var(--e-global-color-primary)" },
-                          children: "币安女英雄",
+                          children: "币安动漫",
                         }),
                         (0, a.jsx)("span", {
                           style: {
